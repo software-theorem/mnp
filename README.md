@@ -7,16 +7,16 @@ This Github repository summarizes method name prediction paper resources. For mo
 - [Experiments](#Experiments)
 
 ## Papers List
-- A General Path-Based Representation for Predicting Program Properties.[[pdf](https://arxiv.org/abs/1803.09544)]
+- **A General Path-Based Representation for Predicting Program Properties**.[[pdf](https://arxiv.org/abs/1803.09544)]
   - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav. *PLDI*, 2018.
   
-- Characterizing the natural language descriptions in software logging statements.[[pdf](https://dl.acm.org/doi/10.1145/3238147.3238193)]
+- **Characterizing the natural language descriptions in software logging statements**.[[pdf](https://dl.acm.org/doi/10.1145/3238147.3238193)]
   - Pinjia He, Zhuangbin Chen, Shilin He, Michael R. Lyu. *ASE*, 2018.
   
-- code2vec: Learning Distributed Representations of Code.[[pdf](http://arxiv.org/abs/1803.09473)][[code](https://github.com/tech-srl/code2vec)]
+- **code2vec: Learning Distributed Representations of Code**.[[pdf](http://arxiv.org/abs/1803.09473)][[code](https://github.com/tech-srl/code2vec)]
   - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav. *POPL*, 2019.
   
-- code2seq: Generating Sequences from Structured Representations of Code.[[pdf](http://arxiv.org/abs/1808.01400)][[code](https://github.com/tech-srl/code2seq)]
+- **code2seq: Generating Sequences from Structured Representations of Code**.[[pdf](http://arxiv.org/abs/1808.01400)][[code](https://github.com/tech-srl/code2seq)]
   - Uri Alon, Shaked Brody, Omer Levy, Eran Yahav. *ICLR*, 2019.
   
 - [Machine Learning Based Recommendation of Method Names: How Far are We](https://ieeexplore.ieee.org/document/8952208).
