@@ -13,10 +13,10 @@ This Github repository summarizes method name prediction paper resources. For mo
 - [Characterizing the natural language descriptions in software logging statements](https://dl.acm.org/doi/10.1145/3238147.3238193).
   - Pinjia He, Zhuangbin Chen, Shilin He, Michael R. Lyu. *ASE*, 2018.
   
-- [code2vec: Learning Distributed Representations of Code](http://arxiv.org/abs/1803.09473).
+- [code2vec: Learning Distributed Representations of Code](http://arxiv.org/abs/1803.09473).[[code](https://github.com/tech-srl/code2vec)]
   - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav. *POPL*, 2019.
   
-- [code2seq: Generating Sequences from Structured Representations of Code](http://arxiv.org/abs/1808.01400).
+- [code2seq: Generating Sequences from Structured Representations of Code](http://arxiv.org/abs/1808.01400).[[code](https://github.com/tech-srl/code2seq)]
   - Uri Alon, Shaked Brody, Omer Levy, Eran Yahav. *ICLR*, 2019.
   
 - [Machine Learning Based Recommendation of Method Names: How Far are We](https://ieeexplore.ieee.org/document/8952208).
@@ -80,7 +80,7 @@ This Github repository summarizes method name prediction paper resources. For mo
   - Wei Ma, Mengjie Zhao, Ezekiel O. Soremekun, Qiang Hu, Jie M. Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon. *MSR*, 2022.
 
 - [Learning to Represent Programs with Heterogeneous Graphs](https://arxiv.org/abs/2012.04188).
-  - Kechi Zhang, Wenhan Wang, Huangzhao Zhang, Ge Li, Zhi Jin:. *ICPC*, 2022.
+  - Kechi Zhang, Wenhan Wang, Huangzhao Zhang, Ge Li, Zhi Jin. *ICPC*, 2022.
 
 - [Multilingual Training for Software Engineerin](https://arxiv.org/abs/2112.02043).
   - Toufique Ahmed, Premkumar T. Devanbu. *ICSE*, 2022.
