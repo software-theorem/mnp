@@ -23,7 +23,7 @@ This Github repository summarizes method name prediction paper resources. For mo
   - Sihan Xu, Sen Zhang, Weijing Wang, Xinya Cao, Chenkai Guo, Jing Xu. *PEPM@POPL*, 2019.
 - **Recovering Variable Names for Minified Code with Usage Contexts**.[[pdf](http://arxiv.org/abs/1906.03488)][[code](https://mrstarrynight.github.io/JSNeat/)]
   - Hieu Tran, Ngoc M. Tran, Son Nguyen, Hoan Nguyen, Tien N. Nguyen. *ICSE*, 2019.
-- **Embedding Java Classes with code2vec: Improvements from Variable Obfuscation**.[[pdf](https://arxiv.org/abs/2004.02942)][[code](https://github.com/basedrhys/obfuscated-code2vec]
+- **Embedding Java Classes with code2vec: Improvements from Variable Obfuscation**.[[pdf](https://arxiv.org/abs/2004.02942)][[code](https://github.com/basedrhys/obfuscated-code2vec)]
   - Rhys Compton, Eibe Frank, Panos Patros, Abigail Koay. *MSR*, 2020.
 - **Learning Semantic Program Embeddings with Graph Interval Neural Network**.[[pdf](https://arxiv.org/abs/2005.09997)][[code](https://github.com/GINN-Imp/GINN)]
   - Yu Wang, Ke Wang, Fengjuan Gao, Linzhang Wang. *OOPSLA*, 2020.
