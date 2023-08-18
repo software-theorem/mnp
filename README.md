@@ -75,3 +75,4 @@ This Github repository summarizes method name prediction paper resources. For mo
   - Francesco Bertolotti, Walter Cazzola. *ACM Transactions on Software Engineering and Methodology*, 2023.
 
 ## Experiments
+You can use the code from the folder code and our experiments are based on them.
